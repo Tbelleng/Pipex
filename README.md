@@ -1,9 +1,5 @@
 # Pipex
 
-![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepoName)
-![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/YourRepoName)
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepoName?style=social)
-
 Pipex is a program that simulates the behavior of the shell pipe (`|`) in Unix-like systems. It takes two commands as input and redirects the output of the first command as input to the second command, just like the shell pipe.
 
 ## Table of Contents
